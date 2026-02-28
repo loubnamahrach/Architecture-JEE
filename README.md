@@ -76,16 +76,16 @@ Deux approches sont utilisées :
 
 Compiler avec Maven :
 
-mvn clean install
+### mvn clean install
 
 Tester l’injection XML :
 Lancer la classe :
-PresAvecSpringXml
+### PresAvecSpringXml
 
 Tester l’injection par annotations :
 Lancer la classe :
-PressSpringAnnotation
+### PressSpringAnnotation
 
 Réalisé par:
-## Loubna Mahrach
+### Loubna Mahrach
 Master M1 – SDIA
